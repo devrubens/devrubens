@@ -1,19 +1,29 @@
-### Olá, sou Rubens Silva 👋
+<div align="center"><br>
+
+<h2> Olá, sou Rubens Silva 👋 </div>
+
+<p aling-"center">
+
+ 
+</p>
+
+</div>
 
  ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I'm currently at a university majoring in Systems Analysis and Development
+- 🔭 I'm working at GDPPI Lab's and DARM Lab's as a technical lead and project manager
+- 🌱 I'm learning Java with spring boot and Artificial Intelligence in python
+- 😎 Learning, thinking and solving are my vices.
+- 💬 Ask about git, python, artificial intelligence and scientific research
+- ⚡ Curiosity: A complex of people with strong or weak opinions, you decide.
 
 <h3>Tech Stack Development</h3>
 
  ##
+ 
+ 
+
 
 <div align="center"><br>
 
@@ -24,8 +34,6 @@
   <img align="center" alt="Rubens-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
   <img align="center" alt="Rubens-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Rubens-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-
-          
 
 </div>
 
