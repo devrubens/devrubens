@@ -5,6 +5,8 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devrubens}/count.svg" /></p> 
+     <a href="https://wakatime.com/@1fa83b6c-1993-4a25-96ae-9576cdcd25a4"><img src="https://wakatime.com/badge/user/1fa83b6c-1993-4a25-96ae-9576cdcd25a4.svg" alt="Total time coded since Jan 5 2023" /></a>
+
 <br>
 </div>
 
@@ -39,7 +41,8 @@
 <div align="center">
   <a href="https://github.com/devrubens">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devrubens&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrubens&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrubens&layout=compact&langs_count=7&theme=dracula"/> 
+
   <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devrubens&theme=dracula&row=2&no-bg=true&column=6&margin-w=10&margin-h=10" />
 </p> 
