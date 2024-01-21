@@ -50,8 +50,6 @@
  
 <h3>Contact me:</h3>
 
- ##
-
 <div align="center">
   <a href="https://twitter.com/rubens_silvas" target="_blank"><img src="https://img.shields.io/badge/twitter-9146FF?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/rubens_abraao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
