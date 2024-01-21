@@ -58,10 +58,3 @@
   <a href="mailton:eurubens.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-7289DA?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rubens-sousa-441789193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-          
-
-  ![Snake animation](https://github.com/devrubens/devrubens/blob/output/github-contribution-grid-snake.svg)
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devrubens&bg_color=0d1117&color=f0caa3&line=3b185f&point=c060a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
